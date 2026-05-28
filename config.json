@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "configfender",
+        "uuid": 34378200,
+        "checksum": "712t3a"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
